@@ -20,7 +20,7 @@ frome Chandigarh University (Expected Graduation Year: 2027)
 Feel free to connect with me on:
 
 LinkedIn: www.linkedin.com/in/848deepak
-GitHub: @848deepak
+GitHub: https://github.com/848deepak
 Email: deepakpandey911494@gmail.com
 
 <!---
