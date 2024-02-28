@@ -1,5 +1,5 @@
 Hi there, I'm DEEPAK PANDEY 👋
-About Me
+
 I am a passionate Computer Science Engineering (CSE) student 
 with a keen interest in technology and programming.
 Currently pursuing my undergraduate degree. 
