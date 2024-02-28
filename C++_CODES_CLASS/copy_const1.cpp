@@ -5,7 +5,7 @@ class copyconstructor{
     private:
     int x,y;
     public:
-    copyconstructor(int x1, int y1){
+    copyconstructor(int x1, int y1){cq
         x = x1;
         y = y1;
     }
