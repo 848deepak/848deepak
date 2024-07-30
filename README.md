@@ -15,7 +15,7 @@ Project 1: Guess The Game .
 
 Education
 Bachelor of Technology in Computer Science Engineering
-frome Chandigarh University (Expected Graduation Year: 2027)
+frome Chandigarh University (Graduation Year: 2027)
 
 Feel free to connect with me on:
 
