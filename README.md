@@ -17,7 +17,7 @@ I love solving complex problems, building projects, and continuously learning ne
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-**💻 Projects**
+## 💻 Projects
 
 🔹 Guess The Number – A fun and interactive number guessing game.
 
