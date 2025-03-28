@@ -9,7 +9,6 @@ I love solving complex problems, building projects, and continuously learning ne
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 **🔥 Skills**
-
 	•	Programming Languages: C, C++, Python
 	•	Problem Solving: Data Structures & Algorithms
 	•	Development: Competitive Coding, System Design
@@ -17,7 +16,9 @@ I love solving complex problems, building projects, and continuously learning ne
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-## 💻 Projects
+  
+**🏆 Projects **
+
 
 🔹 Guess The Number – A fun and interactive number guessing game.
 
