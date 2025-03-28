@@ -1,30 +1,49 @@
-Hi there, I'm DEEPAK PANDEY 👋
 
-I am a passionate Computer Science Engineering (CSE) student 
-with a keen interest in technology and programming.
-Currently pursuing my undergraduate degree. 
-I am enthusiastic about learning new concepts, solving problems, 
-and exploring various areas within the field of computer science.
+# Hi there, I’m Deepak Pandey 👋
 
-Skills
-Programming Languages: C,C++, Python
-Problem Solving: Data Structures, Algorithms
-Projects
-Project 1: Guess The Game .
+**🚀 Computer Science Enthusiast | Problem Solver | Tech Explorer**
 
+I am a Computer Science Engineering (CSE) student passionate about technology, programming, and innovation. 
+I love solving complex problems, building projects, and continuously learning new concepts to enhance my technical skills.
 
-Education
-Bachelor of Technology in Computer Science Engineering
-frome Chandigarh University (Graduation Year: 2027)
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-Feel free to connect with me on:
+**🔥 Skills**
+	•	Programming Languages: C, C++, Python
+	•	Problem Solving: Data Structures & Algorithms
+	•	Development: Competitive Coding, System Design
+	•	Tech Interests: AI, ML, IoT, and Embedded Systems
 
-LinkedIn: www.linkedin.com/in/848deepak
-GitHub: https://github.com/848deepak
-Email: deepakpandey911494@gmail.com
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-<!---
-848deepak/848deepak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Desktop
+**💻 Projects**
+
+🔹 Guess The Number – A fun and interactive number guessing game.
+
+🔹 School Management System – A Python Tkinter-based system for managing students, courses, and report cards.
+
+🔹 AI-Driven Traffic Light System – A smart traffic management solution that optimizes signals 
+based on real-time congestion and vehicle classification. (Finalist at Chandigarh University Project Expo!)
+
+🔹 PID Line-Following Robot – Built a self-navigating robot using ESP32 and AI to take optimized routes.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+**🎓 Education**
+
+🎓 Bachelor of Technology (B.Tech) in Computer Science Engineering
+📍 Chandigarh University | 2023 - 2027
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+**📬 Let’s Connect!**
+
+🌐 LinkedIn: linkedin.com/in/848deepak
+💻 GitHub: github.com/848deepak
+📩 Email: deepakpandey911494@gmail.com
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+**🚀 “Technology is best when it brings people together!”**
+Let’s build, learn, and grow together! Feel free to connect. 😊
+
