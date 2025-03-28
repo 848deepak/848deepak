@@ -9,6 +9,7 @@ I love solving complex problems, building projects, and continuously learning ne
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 **🔥 Skills**
+
 	•	Programming Languages: C, C++, Python
 	•	Problem Solving: Data Structures & Algorithms
 	•	Development: Competitive Coding, System Design
@@ -26,6 +27,7 @@ I love solving complex problems, building projects, and continuously learning ne
 based on real-time congestion and vehicle classification. (Finalist at Chandigarh University Project Expo!)
 
 🔹 PID Line-Following Robot – Built a self-navigating robot using ESP32 and AI to take optimized routes.
+
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
