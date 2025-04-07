@@ -42,8 +42,8 @@ based on real-time congestion and vehicle classification. (Finalist at Chandigar
 
 **📬 Let’s Connect!**
 
-🌐 LinkedIn: linkedin.com/in/848deepak
-💻 GitHub: github.com/848deepak
+🌐 LinkedIn: https://www.linkedin.com/in/848deepak/
+💻 GitHub: https://github.com/848deepak/848deepak
 📩 Email: deepakpandey911494@gmail.com
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
