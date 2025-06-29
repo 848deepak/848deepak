@@ -62,6 +62,7 @@ Check out our hackathon: [RealityCode on Unstop](https://unstop.com/hackathons/r
     <td><img src="https://skillicons.dev/icons?i=bootstrap" height="48" /></td>
   </tr>
 </table>
+
 - **Programming Languages**: C, C++, Java, Python  
 - **Core Skills**: DSA, Competitive Programming, System Design  
 - **Interests**: AI, ML, IoT, Embedded Systems  
