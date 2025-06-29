@@ -36,18 +36,37 @@ Check out our hackathon: [RealityCode on Unstop](https://unstop.com/hackathons/r
 
 ### 🧠 Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux,arduino,figma" />
-</p>
-<p align="center">
-  <img src="https://github.com/848deepak/848deepak/assets/gear-animated.gif" height="40" alt="Gears animation" />
-</p>
-
-- **Programming Languages**: C, C++, Python  
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=c" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="48" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" height="48" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch" height="48" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=raspberrypi" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" height="48" /></td>
+  </tr>
+</table>
+- **Programming Languages**: C, C++, Java, Python  
 - **Core Skills**: DSA, Competitive Programming, System Design  
 - **Interests**: AI, ML, IoT, Embedded Systems  
-- **Tools**: Git, GitHub, Linux, VS Code, Figma  
-
+- **Tools**: Git, GitHub, VS Code, Linux, Figma, Arduino, Raspberry Pi, TensorFlow, PyTorch
+- **Tools**: Git, GitHub, VS Code, Linux, Figma, Arduino, Raspberry Pi, ESP32, TensorFlow, PyTorch
 ---
 
 ### 🛠 Projects
@@ -95,17 +114,17 @@ Check out our hackathon: [RealityCode on Unstop](https://unstop.com/hackathons/r
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.codeunia.com" title="Codeunia Website" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=chrome" height="37" alt="Website" />
+  <a href="https://www.codeunia.com" target="_blank" title="CodeUnion" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=c" height="37" alt="CodeUnion" />
   </a>
-  <a href="https://github.com/848deepak" title="GitHub" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=github" height="37" alt="GitHub"/>
+  <a href="https://github.com/848deepak" target="_blank" title="GitHub" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=github" height="37" alt="GitHub" />
   </a>
-  <a href="mailto:deepakpandey911494@gmail.com" title="Email" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="37" alt="Gmail"/>
+  <a href="mailto:deepakpandey911494@gmail.com" target="_blank" title="Email" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="37" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/848deepak/" title="LinkedIn" target="_blank" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="37" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/848deepak/" target="_blank" title="LinkedIn" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="37" alt="LinkedIn" />
   </a>
 </p>
 
