@@ -2,7 +2,7 @@ name: Update Thought of the Day
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run script
+      - name: Run update script
         run: python update_quote.py
 
       - name: Commit and push changes
