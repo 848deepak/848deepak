@@ -14,6 +14,8 @@
   </a>
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F7C736&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Tech+%F0%9F%9A%80;Always+Learning+%F0%9F%92%AF;Let's+Build+Something+Awesome+Together+%F0%9F%92%A1" alt="Animated Welcome" />
 </p>
@@ -34,6 +36,13 @@ Check out our hackathon: [RealityCode on Unstop](https://unstop.com/hackathons/r
 
 ---
 
+## 🙌 Support My Work
+
+I'm building open-source tools, leading student tech communities, and helping others grow in tech.  
+If you believe in this mission, consider becoming a sponsor — every bit makes a difference! 💖
+
+[![Sponsor via GitHub](https://img.shields.io/badge/Sponsor-848deepak-24292e?logo=github&style=for-the-badge&logoColor=white)](https://github.com/sponsors/848deepak)
+---
 ### 🧠 Skills & Tools
 
 <table align="center">
