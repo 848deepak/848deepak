@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   update-quote:
@@ -17,6 +18,7 @@ jobs:
     - name: 🛒 Checkout repository
       uses: actions/checkout@v4
       with:
+        fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: 🐍 Set up Python
@@ -39,12 +41,13 @@ jobs:
     
     - name: 🚀 Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "🔄 Daily quote update - $(date +'%Y-%m-%d')"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: '🔄 Daily quote update - ${{ github.run_number }}'
+        file_pattern: 'README.md'
+        commit_user_name: 'github-actions[bot]'
+        commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
     
     - name: ✅ Success notification
       if: steps.verify-changed-files.outputs.changed == 'true'
