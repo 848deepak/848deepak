@@ -1,0 +1,42 @@
+name: Daily Quote Update
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC (adjust timezone as needed)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 🛒 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: 📝 Update daily quote
+      run: |
+        python scripts/daily_quote_updater.py
+    
+    - name: 🚀 Auto commit and push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: '🔄 Daily quote update - $(date +'%Y-%m-%d')'
+        commit_user_name: '848deepak'
+        commit_user_email: 'deepakpandey911494@gmail.com'
+        commit_author: '848deepak <deepakpandey911494@gmail.com>'
+        file_pattern: 'README.md'
+        skip_dirty_check: false
+        skip_fetch: false
+        skip_checkout: false
+        push_options: '--force-with-lease'
