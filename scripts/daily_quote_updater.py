@@ -123,8 +123,8 @@ class DailyQuoteUpdater:
         # Get today's quote
         daily_quote = self.get_daily_quote()
         
-        # Pattern to match the Final Thought section - more flexible for multi-line
-        pattern = r'(### ✨ Final Thought.*?<blockquote align="center">.*?<img[^>]*/>.*?<i>)"([^"]*)"(.*?</blockquote>)'
+        # Pattern to match the Final Thought section - matches <i> tags instead of quotes
+        pattern = r'(### ✨ Final Thought.*?<blockquote align="center">.*?<img[^>]*/>.*?<i>)([^<]*)(</i>.*?</blockquote>)'
         
         # Create replacement with new quote
         replacement = rf'\1{daily_quote}\3'
