@@ -14,7 +14,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=848deepak&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=F7C736&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Tech+%F0%9F%9A%80;Always+Learning+%F0%9F%92%AF;Let's+Build+Something+Awesome+Together+%F0%9F%92%A1" alt="Animated Welcome" />
