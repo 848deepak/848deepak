@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Quality is not an act, it is a habit. - Aristotle</i>
+  <i>Everything you've ever wanted is on the other side of fear. - George Addair</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
