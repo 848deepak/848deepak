@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Everything you've ever wanted is on the other side of fear. - George Addair</i>
+  <i>A society grows great when old men plant trees whose shade they know they shall never sit in. - Greek Proverb</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
