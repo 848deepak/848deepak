@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Talent wins games, but teamwork and intelligence win championships. - Michael Jordan</i>
+  <i>The best way to predict the future is to invent it. - Alan Kay</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
