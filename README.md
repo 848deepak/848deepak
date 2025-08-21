@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler</i>
+  <i>The only source of knowledge is experience. - Albert Einstein</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
