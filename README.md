@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The strength of the team is each individual member. The strength of each member is the team. - Phil Jackson</i>
+  <i>Talk is cheap. Show me the code. - Linus Torvalds</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
