@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>None of us is as smart as all of us. - Ken Blanchard</i>
+  <i>The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
