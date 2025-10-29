@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Code is like humor. When you have to explain it, it's bad. - Cory House</i>
+  <i>If you want to go fast, go alone. If you want to go far, go together. - African Proverb</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
