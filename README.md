@@ -146,7 +146,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Great things in business are never done by one person. They're done by a team of people. - Steve Jobs</i>
+  <i>Code is like humor. When you have to explain it, it's bad. - Cory House</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
