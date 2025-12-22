@@ -34,7 +34,6 @@ I'm a Computer Science Engineering student from **Chandigarh University** who lo
 I thrive in fast-paced, problem-solving environments and believe in continuous learning and collaboration.
 
 🚀 I’m the **Founder of [Codeunia](https://www.codeunia.com)** — a student-led tech community empowering peers through events, open-source contributions, and hands-on innovation.<br>
-Check out our hackathon: [RealityCode on Unstop](https://unstop.com/hackathons/realitycode-by-codeunia-codeunia-1488383)
 
 ---
 
