@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Given enough eyeballs, all bugs are shallow. - Linus's Law</i>
+  <i>The meaning of life is to find your gift. The purpose of life is to give it away. - Pablo Picasso</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
