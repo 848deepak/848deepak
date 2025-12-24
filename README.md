@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Talk is cheap. Show me the code. - Linus Torvalds</i>
+  <i>It is during our darkest moments that we must focus to see the light. - Aristotle</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
