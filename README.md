@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Your limitation—it's only your imagination.</i>
+  <i>Great things in business are never done by one person. They're done by a team of people. - Steve Jobs</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
