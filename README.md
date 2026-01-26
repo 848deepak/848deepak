@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>If you want to go fast, go alone. If you want to go far, go together. - African Proverb</i>
+  <i>Given enough eyeballs, all bugs are shallow. - Linus's Law</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
