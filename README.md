@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Believe you can and you're halfway there. - Theodore Roosevelt</i>
+  <i>The expert in anything was once a beginner. - Helen Hayes</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
