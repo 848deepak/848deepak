@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Share your knowledge. It is a way to achieve immortality. - Dalai Lama</i>
+  <i>Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work. - Vince Lombardi</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
