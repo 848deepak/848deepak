@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The only way to make sense out of change is to plunge into it, move with it, and join the dance. - Alan Watts</i>
+  <i>Creativity is intelligence having fun. - Albert Einstein</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
