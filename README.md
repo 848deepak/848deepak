@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton</i>
+  <i>The whole is greater than the sum of its parts. - Aristotle</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
