@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Everything you've ever wanted is on the other side of fear. - George Addair</i>
+  <i>Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved. - Mattie Stepanek</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
