@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The future depends on what you do today. - Mahatma Gandhi</i>
+  <i>Technology is best when it brings people together. - Matt Mullenweg</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
