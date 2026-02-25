@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The only constant in life is change. - Heraclitus</i>
+  <i>Quality is not an act, it is a habit. - Aristotle</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
