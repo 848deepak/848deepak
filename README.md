@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The way to get started is to quit talking and begin doing. - Walt Disney</i>
+  <i>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. - Brian Kernighan</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
