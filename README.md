@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>We make a living by what we get, but we make a life by what we give. - Winston Churchill</i>
+  <i>Open source is a development method for software that harnesses the power of distributed peer review and transparency. - Eric S. Raymond</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
