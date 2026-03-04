@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>First, solve the problem. Then, write the code. - John Johnson</i>
+  <i>Don't watch the clock; do what it does. Keep going. - Sam Levenson</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
