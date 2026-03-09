@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>The significant problems we face cannot be solved at the same level of thinking we were at when we created them. - Albert Einstein</i>
+  <i>Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
