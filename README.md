@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill</i>
+  <i>What we think, we become. - Buddha</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
