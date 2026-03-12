@@ -145,7 +145,7 @@ If you believe in this mission, consider becoming a sponsor — every bit makes 
 
 <blockquote align="center">
   <img src="https://github.com/848deepak/848deepak/assets/lightbulb-animated.gif" height="30" style="vertical-align:middle"/>
-  <i>Push yourself, because no one else is going to do it for you.</i>
+  <i>The way to get started is to quit talking and begin doing. - Walt Disney</i>
   <br>
   Let’s collaborate, innovate, and grow — together 🚀
 </blockquote>
